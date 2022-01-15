@@ -1,3 +1,8 @@
 Hello Noob
+<<<<<<< HEAD
 hi ho
 hi hello kr lo
+=======
+Im Pro
+New branch
+>>>>>>> new
